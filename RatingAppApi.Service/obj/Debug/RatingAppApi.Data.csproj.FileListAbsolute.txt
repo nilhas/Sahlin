@@ -1,0 +1,10 @@
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\bin\Debug\RatingAppApi.Service.dll.config
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\bin\Debug\RatingAppApi.Service.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\bin\Debug\RatingAppApi.Service.pdb
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\bin\Debug\EntityFramework.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\bin\Debug\EntityFramework.xml
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\obj\Debug\RatingAppApi.Service.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\obj\Debug\RatingAppApi.Service.pdb
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Service\obj\Debug\RatingAppApi.Data.csprojResolveAssemblyReference.cache

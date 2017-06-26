@@ -1,0 +1,14 @@
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\obj\Debug\RatingAppApi.Business.csprojResolveAssemblyReference.cache
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\RatingAppApi.Repository.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\RatingAppApi.Repository.pdb
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\RatingAppApi.Service.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\RatingAppApi.Service.pdb
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\obj\Debug\RatingAppApi.Repository.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\obj\Debug\RatingAppApi.Repository.pdb
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\AutoMapper.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\AutoMapper.xml
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\RatingAppApi.Repository.dll.config
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nilhas\Desktop\Upload on github\RatingAppApi\RatingAppApi.Repository\bin\Debug\EntityFramework.SqlServer.xml
