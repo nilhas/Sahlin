@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html ng-app="skillsApp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Application</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+</head>
+
+<body>
+    <div ng-controller="skillsCtrl" class="container">
+        <h3>Skills</h3>
+        <div class="row">
+            <div class="col-md-12">
+                <input type="text" ng-model="input.expertise" />
+                <input ng-repeat="value in values" type="button" ng-class="{selectednumber: value === selected}" ng-click="setvalue(value)" value="{{value}}" />
+                <button class="btn btn-success btn-sm" ng-click="add(input)">Add skill</button>
+            </div>
+        </div>
+
+        <hr />
+
+        <div class="row">
+            <div class="col-md-12">
+                <div ng-repeat="skill in skills">
+                    <input type="text" value="{{skill.Expertise}}" disabled />
+                    <input ng-repeat="value in values" ng-style="{{value}} === {{skill.Value}} && {'background-color':'#0094ff'}" type="button" value="{{value}}" disabled />
+                    <button type="button" class="btn btn-default btn-sm" id="{{skill.Id}}" ng-click="delete(skill.Id)"> &#9932;</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="scripts/app.js"></script>
+    <script src="scripts/skillsController.js"></script>
+
+</body>
+</html>
